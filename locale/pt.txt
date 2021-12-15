@@ -1,0 +1,16 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Confira em um Tour Virtual 360° a decoração de natal incrivel do Espaço VIV -  by:@meunegocioweb360
+
+### Title
+tour.name = Decoração de Natal - Tour Virtual 360°- Espaço VIV
+
+## Media
+
+### Title
+panorama_B44572C0_BF3B_DD05_41E1_29AB6AB2E6C6.label = Fachada 1
+panorama_B5340F18_BF3B_C304_41D7_43337B6A8457.label = Fachada 2
+panorama_B53B7C4F_BF3B_C51C_41D3_4CA465F13965.label = Fachada 3
